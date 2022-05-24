@@ -1,9 +1,13 @@
+body {
+    background: rgb(191, 160, 241);
+}
+
 .card {
     background-color: rgb(237, 207, 232);
 }
 
 .card-header {
-    background-color: rgb(92, 3, 94);
+    background-color: rgb(213, 92, 215);
     font-size: 20px;
 }
 
